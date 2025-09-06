@@ -1,0 +1,7 @@
+Email: sahilkbendre357@gmail.com
+Username: djangoAdmin
+First name: Sahil
+Last name: Bendre
+Password: bestieYash3$
+
+Superuser created successfully.
